@@ -29,9 +29,7 @@ Short description: E-commerce PWA • Live: https://project-b.example
 - LinkedIn: https://www.linkedin.com/in/le-thanh-an-2859ba1b1/
 
 
-<details>
   <summary>More — CV</summary>
 [![Download CV](https://img.shields.io/badge/Download%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/thanhan868192/thanhan868192/blob/main/An-Le-Thanh-Fullstack-Developer.pdf)
 
-</details>
 
