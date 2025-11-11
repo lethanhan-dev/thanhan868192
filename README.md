@@ -11,7 +11,7 @@
 ---
 
 ## 🛠️ Tech stack
-Angular (8-20) • TypeScript • JavaScript • RxJS • React • Next • Vue • Nuxt 4 • Tailwind • MongoDB • Docker • GitHub Actions
+Angular (8-20) • TypeScript • JavaScript • RxJS • React • Next • Vue • Nuxt 4 • NodeJS • NestJS • ExpressJS • Tailwind • MongoDB • Docker • GitHub Actions
 
 ---
 
